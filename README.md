@@ -1,4 +1,4 @@
-=== Why GMail locked whole browser? ===
+# Why GMail locked whole browser?
 
 This repo was created from Firefox Addon SDK through "cfx init"
 
@@ -6,7 +6,7 @@ and the main file of extension just add a page-mod module to attach to gmail.com
 
 Why the whole browser will be locked several seconds when "cfx run" to test this addon?
 
-=== 破英文擔心別人看不懂，用中文說一次XD ===
+# 破英文擔心別人看不懂，用中文說一次XD
 
 這是從 Firefox Addon SDK 的 cfx init 產生的 firefox addon
 
